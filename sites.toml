@@ -1,0 +1,9 @@
+# Multi-site manifest for WyattsNotes
+# Each entry corresponds to a deployable sub-site
+
+[dse]
+name = "Wyatt's Notes — DSE"
+domain = "dse.wyattau.com"
+framework = "starlight"
+description = "HKDSE Biology, Chemistry, Economics, ICT, Maths, Physics"
+source = "starlight-dse-test"
